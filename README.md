@@ -9,7 +9,7 @@ When I’m not coding, you’ll usually find me tinkering with my dev setup, tes
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhlekt1v&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhlekt1v&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
 
 <!--[![Cody Sheridan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuhlekt1v)](https://github.com/kuhlekt1v/github-readme-stats)-->
 
