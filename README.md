@@ -6,13 +6,3 @@ I’m a senior full stack software developer from the U.S. with a passion for bu
 I love solving hard problems, mentoring junior devs, and fine-tuning CI/CD pipelines to keep projects flowing smoothly 🚀.
 
 When I’m not coding, you’ll usually find me tinkering with my dev setup, testing out new frameworks “just because,” or rearranging my office space (again) in pursuit of the perfect workflow ⚡.
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhlekt1v&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
-
-<!--[![Cody Sheridan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuhlekt1v)](https://github.com/kuhlekt1v/github-readme-stats)-->
-
-
-
-
